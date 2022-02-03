@@ -6,7 +6,7 @@ const Pedro = {
  ENGLISH: {
    pronouns: "he" | "him",
    about_Me: "Im a Full-Stack web developer from Argentina that only points one way: UP! ",
-   skills: [Javascript, HTML, CSS, C++, React, Redux, Typescript, Express, Node, Styled-Components, PostgreSQL, Sequelize],
+   skills:[Javascript, HTML, CSS, C++, React, Redux, Typescript, Express, Node, Styled-Components, PostgreSQL, Sequelize],
    languages: {
                  Spanish: "Native",
                  English: "Medium"
@@ -19,7 +19,7 @@ const Pedro = {
  ESPAÑOL: {
    pronombre: "él",
    sobre_mi: "Soy un desarrollador web Full-Stack argentino que solo apunta a una direccion: Arriba!",
-   habilidades: [Javascript, HTML, CSS, C++, React, Redux, Typescript, Express, Node, Styled-Components, PostgreSQL, Sequelize],
+   habilidades:[Javascript, HTML, CSS, C++, React, Redux, Typescript, Express, Node, Styled-Components, PostgreSQL, Sequelize],
    lenguajes: {
                  Español: "Nativo",
                  inglés: "Medio"

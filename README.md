@@ -3,34 +3,34 @@
 
 ```javascript
 const Pedro = {
-  ENGLISH: {
-    pronouns: "he" | "him",
-    about_Me: "Im a Full-Stack web developer from Argentina that only points one way: UP! ",
-    skills: [Javascript, HTML, CSS, C++, React, Redux, Typescript, Express, Node, Styled-Components, PostgreSQL, Sequelize],
-    languages: {
-                  Spanish: "Native",
-                  English: "Medium"
+ ENGLISH: {
+   pronouns: "he" | "him",
+   about_Me: "Im a Full-Stack web developer from Argentina that only points one way: UP! ",
+   skills: [Javascript, HTML, CSS, C++, React, Redux, Typescript, Express, Node, Styled-Components, PostgreSQL, Sequelize],
+   languages: {
+                 Spanish: "Native",
+                 English: "Medium"
+                     },
+   studys: {
+                 Soy_Henry: "Full-Stack web developer carreer ",
+                 UTN: "Programming tecnicature (incomplete)", 
+                },
+     },
+ ESPAÑOL: {
+   pronombre: "él",
+   sobre_mi: "Soy un desarrollador web Full-Stack argentino que solo apunta a una direccion: Arriba!",
+   habilidades: [Javascript, HTML, CSS, C++, React, Redux, Typescript, Express, Node, Styled-Components, PostgreSQL, Sequelize],
+   lenguajes: {
+                 Español: "Nativo",
+                 inglés: "Medio"
+                     },
+   estudios: {
+                 Soy_Henry: "Carrera de desarrollador web Full-Stack",
+                 UTN: "tecnicatura en programacion (incompleta)", 
                       },
-    studys: {
-                  Soy_Henry: "Full-Stack web developer carreer ",
-                  UTN: "Programming tecnicature (incomplete)", 
-                       },
-      },
-  ESPAÑOL: {
-    pronombre: "él",
-    sobre_mi: "Soy un desarrollador web Full-Stack argentino que solo apunta a una direccion: Arriba!",
-    habilidades: [Javascript, HTML, CSS, C++, React, Redux, Typescript, Express, Node, Styled-Components, PostgreSQL, Sequelize],
-    lenguajes: {
-                  Español: "Nativo",
-                  inglés: "Medio"
-                      },
-    estudios: {
-                  Soy_Henry: "Carrera de desarrollador web Full-Stack",
-                  UTN: "tecnicatura en programacion (incompleta)", 
-                       },
-      } 
+     } 
  
-}
+ }
 ```
 <h2>Contacte me! <h2>
   <a href = 'https://www.linkedin.com/in/pedro-peyon/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>

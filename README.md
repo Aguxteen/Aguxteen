@@ -18,7 +18,7 @@ const Pedro = {
       },
   ESPAÑOL: {
     pronombre: "él",
-    sobre_mi: "Soy un desarrollador web Full-Stack argentino que solo apunta a una direccion: Arriba!",
+    sobre_mi: "Soy un desarrollador web Full-Stack argentino que solo apunta en una direccion: Arriba!",
     habilidades: [Javascript, HTML, CSS, C++, React, Redux, Typescript, Express, Node, Styled-Components, PostgreSQL, Sequelize],
     lenguajes: {
                   Español: "Nativo",
